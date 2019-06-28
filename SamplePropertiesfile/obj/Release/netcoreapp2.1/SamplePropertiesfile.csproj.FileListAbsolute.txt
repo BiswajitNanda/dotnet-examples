@@ -1,0 +1,11 @@
+/Users/biswajitnanda/Projects/SamplePropertiesfile/SamplePropertiesfile/bin/Release/netcoreapp2.1/SamplePropertiesfile.dll.config
+/Users/biswajitnanda/Projects/SamplePropertiesfile/SamplePropertiesfile/bin/Release/netcoreapp2.1/SamplePropertiesfile.deps.json
+/Users/biswajitnanda/Projects/SamplePropertiesfile/SamplePropertiesfile/bin/Release/netcoreapp2.1/SamplePropertiesfile.runtimeconfig.json
+/Users/biswajitnanda/Projects/SamplePropertiesfile/SamplePropertiesfile/bin/Release/netcoreapp2.1/SamplePropertiesfile.runtimeconfig.dev.json
+/Users/biswajitnanda/Projects/SamplePropertiesfile/SamplePropertiesfile/bin/Release/netcoreapp2.1/SamplePropertiesfile.dll
+/Users/biswajitnanda/Projects/SamplePropertiesfile/SamplePropertiesfile/bin/Release/netcoreapp2.1/SamplePropertiesfile.pdb
+/Users/biswajitnanda/Projects/SamplePropertiesfile/SamplePropertiesfile/obj/Release/netcoreapp2.1/SamplePropertiesfile.csproj.CoreCompileInputs.cache
+/Users/biswajitnanda/Projects/SamplePropertiesfile/SamplePropertiesfile/obj/Release/netcoreapp2.1/SamplePropertiesfile.AssemblyInfoInputs.cache
+/Users/biswajitnanda/Projects/SamplePropertiesfile/SamplePropertiesfile/obj/Release/netcoreapp2.1/SamplePropertiesfile.AssemblyInfo.cs
+/Users/biswajitnanda/Projects/SamplePropertiesfile/SamplePropertiesfile/obj/Release/netcoreapp2.1/SamplePropertiesfile.dll
+/Users/biswajitnanda/Projects/SamplePropertiesfile/SamplePropertiesfile/obj/Release/netcoreapp2.1/SamplePropertiesfile.pdb
